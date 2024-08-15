@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajat kumar
-- 👀 I’m interested in computer science 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Artificial Intelligence and Machine Learning
+- 🌱 I’m learning Gen AI, LLMs and their use cases (applications).
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me (@dazedleo
 
